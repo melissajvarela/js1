@@ -1,25 +1,8 @@
-<!DOCTYPE html>
-
-
-<html>
-  <head>
-    <meta charset="utf-8">
-  <title>  JS1 </title>
-<link rel="stylesheet" href="css/styles.css"
-
-
-  </head>
-  <body>
-
-
-  <p>Hello!</p>
-  <footer></footer>
-  <script src="js/script.js"></script>
-  </body>
-
-
-
-
-
-
-</html>
+var name = "Melissa";
+var age = 5;
+var arr = [5, 2, 45 "abc" "grt"]
+var obj = {
+  firstName: "Melissa"
+  lastName: "Varela"
+  age:21
+}
